@@ -1,0 +1,6 @@
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\bin\Debug\ExampleWcfLib.dll.config
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\bin\Debug\ExampleWcfLib.dll
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\bin\Debug\ExampleWcfLib.pdb
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\obj\Debug\ExampleWcfLib.csprojResolveAssemblyReference.cache
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\obj\Debug\ExampleWcfLib.dll
+E:\WcfSamples\ExampleWcf\ExampleWcfLib\obj\Debug\ExampleWcfLib.pdb

@@ -1,0 +1,8 @@
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\bin\Debug\ExampleWcfHost.exe.config
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\bin\Debug\ExampleWcfHost.exe
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\bin\Debug\ExampleWcfHost.pdb
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\bin\Debug\ExampleWcfLib.dll
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\bin\Debug\ExampleWcfLib.pdb
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\obj\Debug\ExampleWcfHost.csprojResolveAssemblyReference.cache
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\obj\Debug\ExampleWcfHost.exe
+E:\WcfSamples\ExampleWcf\ExampleWcfHost\obj\Debug\ExampleWcfHost.pdb
