@@ -6,3 +6,11 @@ E:\WcfSamples\ExampleWcf\ExampleWcfClient\obj\Debug\ExampleWcfClient.exe
 E:\WcfSamples\ExampleWcf\ExampleWcfClient\obj\Debug\ExampleWcfClient.pdb
 E:\WcfSamples\ExampleWcf\ExampleWcfClient\bin\Debug\ExampleWcfLib.dll
 E:\WcfSamples\ExampleWcf\ExampleWcfClient\bin\Debug\ExampleWcfLib.pdb
+E:\gitTest\ExampleWcfClient\bin\Debug\ExampleWcfClient.exe.config
+E:\gitTest\ExampleWcfClient\obj\Debug\ExampleWcfClient.exe
+E:\gitTest\ExampleWcfClient\obj\Debug\ExampleWcfClient.pdb
+E:\gitTest\ExampleWcfClient\bin\Debug\ExampleWcfClient.exe
+E:\gitTest\ExampleWcfClient\bin\Debug\ExampleWcfClient.pdb
+E:\gitTest\ExampleWcfClient\bin\Debug\ExampleWcfLib.dll
+E:\gitTest\ExampleWcfClient\bin\Debug\ExampleWcfLib.pdb
+E:\gitTest\ExampleWcfClient\obj\Debug\ExampleWcfClient.csprojResolveAssemblyReference.cache

@@ -9,6 +9,7 @@ namespace ExampleWcfLib
 {
     public class RecordsKeeperService : IRecordsKeeper
     {
+        /**** Ned - Note the use of the 'SortedList' collection, now we just need infinity customers... ****/
         private SortedList<string, double> _db = new  SortedList<string, double>();
         private bool _consoleDebug=true;
 
